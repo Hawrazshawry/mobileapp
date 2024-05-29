@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Dart Web",
+            "program": "web",
+            "cwd": "connectschool",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612249253851",
+    "project_id": "connectschool3",
+    "storage_bucket": "connectschool3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612249253851:android:2574c50f599e4ffb8f19fe",
+        "android_client_info": {
+          "package_name": "com.example.connectschool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKL9REvx-GG4pNhUQ04Dy5buMftDoELYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
